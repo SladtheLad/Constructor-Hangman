@@ -19,5 +19,8 @@
   "dependencies": {
     "hangman-cli-art": "^1.0.1",
     "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.58"
   }
 }
